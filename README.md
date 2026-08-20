@@ -1,6 +1,6 @@
 # Student Registration Form
 
-A simple HTML project that demonstrates how to create a student registration form and display submitted student details in a table.
+A simple HTML and CSS project that demonstrates how to create a student registration form and display submitted student details in a table.
 
 ## Features
 
@@ -13,12 +13,15 @@ A simple HTML project that demonstrates how to create a student registration for
 - Date of Birth input
 - Submit button
 - Submitted students table
+- CSS styling for form and table
+- Improved spacing, colors, borders, and layout
 
 ## Technologies Used
 
 - HTML5
+- CSS3
 
-## HTML Concepts Practiced
+## HTML & CSS Concepts Practiced
 
 - HTML document structure
 - Forms
@@ -30,13 +33,24 @@ A simple HTML project that demonstrates how to create a student registration for
 - Buttons
 - Tables
 - Table headings and data cells
-- Cell padding and borders
+- CSS selectors
+- Colors
+- Fonts
+- Padding and margin
+- Borders
+- Box model
+- Basic layout and styling
 
 ## Project Structure
 
 student-registration-form/
+
 │
+
 ├── index.html
+
+├── style.css
+
 └── README.md
 
 ## How to Run
@@ -47,4 +61,4 @@ student-registration-form/
 
 ## Purpose
 
-This project was created to practice HTML forms, input elements, and tables as part of my web development learning journey.
+This project was created to practice HTML forms, input elements, tables, and basic CSS styling as part of my web development learning journey.
